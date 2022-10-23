@@ -1,5 +1,7 @@
 # news_dio_app
 
+https://user-images.githubusercontent.com/104300528/197383032-6850a655-ee41-40b1-9670-b684f6f9caaf.mp4
+
 News App using API(DIO)
 
 ## Getting Started
